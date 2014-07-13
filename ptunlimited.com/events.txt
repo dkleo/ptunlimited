@@ -1,0 +1,10 @@
+<date>November Events</date>
+
+<date>11.09.2011 (12:30pm)</date>
+<short>FREE Special Presentation @ P. T. Unlimited and Fresh Start Exercise: <b>Natural Remedies for Allergies, Cold and Flu </b></short>
+<long><br/>How do we keep our stress down and our immune system strong during the fall season?  Are there natural alternatives to allergy and cold medications?  What key vitamins, herbs and homeopathic remedies do we need to keep our immune system strong?  Are the foods that we eat enough to keep us healthy?  Are you curious about taking control of your health naturally?<br/>Join Dr. Nikki Conte, N.D., naturopathic physician for this informative presentation. </long>
+
+<date>11.16.2011 (12:30pm)</date>
+<short>FREE Special Presentation @ P. T. Unlimited and Fresh Start Exercise:<b>Keeping Your Body Pain Free</b></short>
+<long><br/>Pain free living can be achieved with a multi-layered approach In addition we'll discuss the power of food, quality sleep, water and most important the benefits of dealing with stressful tension.<br/>Join us for an informative presentation by Kristine Timpert, Neuromuscular Therapist and C.H.E.K Practitioner IV</long>
+
